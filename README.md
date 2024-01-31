@@ -1,2 +1,2 @@
 # printf
-Creating a customized printf.
+Creating a customized printf function.
